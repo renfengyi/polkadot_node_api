@@ -1,2 +1,2 @@
-# polkadot_node_api
+# polkadot_nodejs_api
 polkadot nodejs api
